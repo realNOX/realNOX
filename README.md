@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @realNOX
+- 👀 I’m interested in programming (el classico)
+- 🌱 I’m currently learning Python, CSS, HTML, etc.
